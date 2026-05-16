@@ -122,5 +122,8 @@ cd ../rules-master && git pull
 - [ReversingLabs YARA](https://github.com/reversinglabs/reversinglabs-yara-rules)
 
 ---
+精选yara直链（以整理成ndb):主：https://pan.vma.cc/pan/down.php/33a11291fdd98a31abc76c8f81bde4a6.ndb
+                        备用:https://pan.tenire.com/down.php/33a11291fdd98a31abc76c8f81bde4a6.ndb
+                        备用2：https://wwavs.lanzouv.com/iKxZu3pmiesb
 
 *最后更新: 2026-05-03*
